@@ -1,0 +1,3 @@
+include (../fontTables.fea);
+include (../fontGSUB.fea);
+include (../fontGPOS.fea);
