@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Endescender" format="1">
+  <advance width="661"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="173" y="309" type="line"/>
+      <point x="478" y="309" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="-188" type="line"/>
+      <point x="626" y="-188" type="line"/>
+      <point x="635" y="21" type="line"/>
+      <point x="635" y="71" type="line"/>
+      <point x="562" y="71" type="line"/>
+      <point x="562" y="656" type="line"/>
+      <point x="478" y="656" type="line"/>
+      <point x="478" y="381" type="line"/>
+      <point x="173" y="381" type="line"/>
+      <point x="173" y="656" type="line"/>
+      <point x="90" y="656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

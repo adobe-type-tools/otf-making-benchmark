@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreveacute.sc" format="1">
+  <advance width="470"/>
+  <outline>
+    <contour>
+      <point x="180" y="282" type="line" smooth="yes"/>
+      <point x="199" y="339"/>
+      <point x="214" y="393"/>
+      <point x="232" y="451" type="curve"/>
+      <point x="236" y="451" type="line"/>
+      <point x="254" y="394"/>
+      <point x="269" y="339"/>
+      <point x="288" y="282" type="curve" smooth="yes"/>
+      <point x="312" y="208" type="line"/>
+      <point x="156" y="208" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="135" y="146" type="line"/>
+      <point x="332" y="146" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="282" y="518" type="line"/>
+      <point x="188" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="589" type="curve" smooth="yes"/>
+      <point x="327" y="589"/>
+      <point x="372" y="648"/>
+      <point x="380" y="718" type="curve"/>
+      <point x="333" y="726" type="line"/>
+      <point x="325" y="677"/>
+      <point x="293" y="638"/>
+      <point x="234" y="638" type="curve" smooth="yes"/>
+      <point x="175" y="638"/>
+      <point x="143" y="677"/>
+      <point x="135" y="726" type="curve"/>
+      <point x="88" y="718" type="line"/>
+      <point x="96" y="648"/>
+      <point x="141" y="589"/>
+    </contour>
+    <contour>
+      <point x="196" y="716" type="line"/>
+      <point x="237" y="687" type="line"/>
+      <point x="344" y="796" type="line"/>
+      <point x="291" y="832" type="line"/>
+    </contour>
+  </outline>
+</glyph>
