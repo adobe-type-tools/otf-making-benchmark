@@ -26,7 +26,6 @@ sh buildFont-makeotf.sh
 ```
 
 And to build the font with **fontmake** use this command:
-**NOTE:** Currently it requires this change https://github.com/googlei18n/ufo2ft/pull/110
 ```sh
 sh buildFont-fontmake.sh
 ```
