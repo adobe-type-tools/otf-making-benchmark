@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/bin/env sh
+
 makeotf -f Regular/font.ufo -r -omitDSIG
-rm Regular/current.fpr
 mv Regular/SourceSansPro-Regular.otf SourceSans-makeotf.otf
 
 # print tools version to stdout and
