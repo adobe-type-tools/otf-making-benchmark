@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env sh
 
 makeotf -f Regular/font.ufo -r -omitDSIG
 mv Regular/SourceSansPro-Regular.otf SourceSans-makeotf.otf
