@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
-makeotf -f Regular/font.ufo -r -omitDSIG
-mv Regular/SourceSansPro-Regular.otf SourceSans-makeotf.otf
+makeotf -f SourceSans/font.ufo -r -omitDSIG
+mv SourceSans/SourceSansPro-Regular.otf SourceSans-makeotf.otf
 
 # print tools version to stdout and
 # add the info to the font's name ID 10

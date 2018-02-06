@@ -22,12 +22,12 @@ with one significant different: the font made from this repository will not be a
 
 To build the font with **makeotf** use this command:
 ```sh
-sh buildFont-makeotf.sh
+sh buildSans-makeotf.sh
 ```
 
 And to build the font with **fontmake** use this command:
 ```sh
-sh buildFont-fontmake.sh
+sh buildSans-fontmake.sh
 ```
 
 ### Current status
