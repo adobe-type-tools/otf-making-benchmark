@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 fontmake -u SourceSans/font.ufo -o otf --production-names
-mv master_otf/SourceSansPro-Regular.otf SourceSans-fontmake.otf
+mv master_otf/font.otf SourceSans-fontmake.otf
 rm -r master_otf
 
 # print tools version to stdout and
